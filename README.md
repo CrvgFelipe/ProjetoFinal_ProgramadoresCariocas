@@ -1,4 +1,4 @@
-# PROJETO FINAL - PROGRAMADORES CARIOCAS
+# PROJET FINAL - PROGRAMADORES CARIOCAS
 
 ## DETALHES DA PROPOSTA DE PROJETO
 O grupo deve decidir qual será o MVP utilizado, o site precisa ter -
